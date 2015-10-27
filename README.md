@@ -9,7 +9,7 @@ Topics and materials for the Oakland Advanced Scala Study Group
 * Akka Typed
 * Functional Design Patterns and Domain Modeling
 * Category Theory and Functional Programming
-  * hosting volunteers - Azad, Luke
+  * hosting volunteers - Luke, Azad
   * will attend - 
 * cats and scalaz (including typeclass instance generation, a la kittens)
 * Advanced Language Features (macros, path-dependent types, writings DSLs, variance)
