@@ -12,7 +12,9 @@ Topics and materials for the Oakland Advanced Scala Study Group
   * hosting volunteers - Luke, Azad
   * interested - 
 * cats and scalaz (including typeclass instance generation, a la kittens)
-* Advanced Language Features (macros, path-dependent types, writings DSLs, variance)
+* Advanced Language Features (in-depth review of levels A3 + L1-L3 language features as defined by Martin Odersky, including path-dependent types, writings DSLs, variance)
+  * hosting volunteers -
+  * interested - 
 * Parsers
 * Standard Collections Library (implementation, design, and performance)
 * Generic Programming and Shapeless
