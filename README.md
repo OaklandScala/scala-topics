@@ -7,6 +7,6 @@ Topics and materials for the Oakland Advanced Scala Study Group
 * Akka Persistence and Event Sourcing: Robert Fries [26 October 2015]
 * OrientDb: Nathan
  
-## List of future topics
+## List of possible future topics
 
 * Akka Typed
