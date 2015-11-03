@@ -44,7 +44,7 @@ Topics and materials for the Oakland Advanced Scala Study Group
   * interested - jonnie
 * Play
   * hosting volunteers -
-  * interested - jonnie
+  * interested - 
 * Akka HTTP + Streams
   * hosting volunteers -
   * interested - Azad, jonnie
